@@ -1,0 +1,19 @@
+{
+  "name": "duck-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ag-psd": "14.3.0",
+    "array-shuffle": "^3.0.0",
+    "canvas": "^2.8.0",
+    "csv-parse": "^5.0.3",
+    "gm": "^1.23.1",
+    "lodash": "^4.17.21",
+    "random": "^3.0.6"
+  }
+}
