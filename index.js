@@ -311,7 +311,7 @@ while(generated < 10000) {
     stacks.push(stack)
 
     let token = {
-        title: `Dastardly Duck #${generated.toString().padStart(4, '0')}`,
+        name: `Dastardly Duck #${generated.toString().padStart(4, '0')}`,
         description: "A duck that lives on the blockchain!",
         attributes: [
             {
